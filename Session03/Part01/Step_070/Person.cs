@@ -33,11 +33,17 @@
 			//if then else 
 			//استفاده کنم
 
+			//یک age جدید ایجاد بکن
+			//که value   --> age + 1
             FluentResults.Result<Age>? age = Age.Create(Age.Value + 1);
+
+			//  اگر is success --> خطا را برگردان
+			//  اگر true بود --> value age --> Age
+
 			if (age.IsSuccess)
 			{
 				Age = age.Value;
-			}
+			}6
 			return age.ToResult();
 		}
 	}
