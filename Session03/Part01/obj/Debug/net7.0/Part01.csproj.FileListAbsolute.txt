@@ -1,0 +1,12 @@
+E:\Learning\DT\CQRS\MyCode\Session03\Part01\bin\Debug\net7.0\Part01.deps.json
+E:\Learning\DT\CQRS\MyCode\Session03\Part01\bin\Debug\net7.0\Part01.dll
+E:\Learning\DT\CQRS\MyCode\Session03\Part01\bin\Debug\net7.0\Part01.pdb
+E:\Learning\DT\CQRS\MyCode\Session03\Part01\obj\Debug\net7.0\Part01.csproj.AssemblyReference.cache
+E:\Learning\DT\CQRS\MyCode\Session03\Part01\obj\Debug\net7.0\Part01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\DT\CQRS\MyCode\Session03\Part01\obj\Debug\net7.0\Part01.AssemblyInfoInputs.cache
+E:\Learning\DT\CQRS\MyCode\Session03\Part01\obj\Debug\net7.0\Part01.AssemblyInfo.cs
+E:\Learning\DT\CQRS\MyCode\Session03\Part01\obj\Debug\net7.0\Part01.csproj.CoreCompileInputs.cache
+E:\Learning\DT\CQRS\MyCode\Session03\Part01\obj\Debug\net7.0\Part01.dll
+E:\Learning\DT\CQRS\MyCode\Session03\Part01\obj\Debug\net7.0\refint\Part01.dll
+E:\Learning\DT\CQRS\MyCode\Session03\Part01\obj\Debug\net7.0\Part01.pdb
+E:\Learning\DT\CQRS\MyCode\Session03\Part01\obj\Debug\net7.0\ref\Part01.dll

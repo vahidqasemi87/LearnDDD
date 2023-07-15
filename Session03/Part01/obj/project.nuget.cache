@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+cOqG7T4sEMrkUXsBjmK9kNx4G3phCKKrDXsUTdvtgUvGeL/ORR4yZvNSwjxbRkD9rOlLG9e98LF+blGFTYOnw==",
+  "success": true,
+  "projectFilePath": "E:\\Learning\\DT\\CQRS\\MyCode\\Session03\\Part01\\Part01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V_Ghasemi\\.nuget\\packages\\fluentresults\\3.15.2\\fluentresults.3.15.2.nupkg.sha512",
+    "C:\\Users\\V_Ghasemi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\V_Ghasemi\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
